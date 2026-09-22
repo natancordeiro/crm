@@ -15,7 +15,7 @@
 
 # ------- Branding Related Config ------- #
 - name: INSTALLATION_NAME
-  value: 'Chatwoot'
+  value: 'GN Technologies'
   display_title: 'Installation Name'
   description: 'The installation wide name that would be used in the dashboard, title etc.'
 - name: LOGO_THUMBNAIL
@@ -31,15 +31,15 @@
   display_title: 'Logo Dark Mode'
   description: 'The logo that would be used on the dashboard, login page etc. for dark mode'
 - name: LOGO_EMAIL
-  value: ''
+  value: '/brand-assets/logo_email.png'
   display_title: 'Email Logo'
   description: 'The logo shown at the top of outgoing emails. Must be a PNG, JPG or GIF -- email clients do not render SVG. A relative path is resolved against FRONTEND_URL. Left empty, LOGO is used when it is one of those formats, and no logo is shown otherwise.'
 - name: BRAND_URL
-  value: 'https://www.chatwoot.com'
+  value: 'https://tgntechnologies.com'
   display_title: 'Brand URL'
   description: 'The URL that would be used in emails under the section “Powered By”'
 - name: WIDGET_BRAND_URL
-  value: 'https://www.chatwoot.com'
+  value: 'https://tgntechnologies.com'
   display_title: 'Widget Brand URL'
   description: 'The URL that would be used in the widget under the section “Powered By”'
 - name: BRAND_NAME
@@ -51,11 +51,11 @@
   display_title: 'Brand Color'
   description: 'Hex color used for PWA theme/tile color (example: #1f93ff). For reliable Android PWA install prompts, pair with a 192x192 and 512x512 PNG logo thumbnail.'
 - name: TERMS_URL
-  value: 'https://www.chatwoot.com/terms-of-service'
+  value: 'https://tgntechnologies.com.br/termos'
   display_title: 'Terms URL'
   description: 'The terms of service URL displayed in Signup Page'
 - name: PRIVACY_URL
-  value: 'https://www.chatwoot.com/privacy-policy'
+  value: 'https://tgntechnologies.com.br/privacidade'
   display_title: 'Privacy URL'
   description: 'The privacy policy URL displayed in the app'
 - name: DISPLAY_MANIFEST
